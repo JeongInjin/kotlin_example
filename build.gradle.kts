@@ -67,6 +67,9 @@ dependencies {
     //coroutines
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core")
     runtimeOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm")
+
+    //csvFileReader
+    implementation("com.opencsv:opencsv:5.5.2")
 }
 
 tasks.withType<KotlinCompile> {
