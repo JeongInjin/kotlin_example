@@ -1,6 +1,5 @@
-package com.example.kotlin_init_project.examplecode
+package com.example.kotlin_init_project.examplecode.example
 
-import com.example.kotlin_init_project.examplecode.example.Person
 import com.google.gson.Gson
 import com.google.gson.JsonObject
 

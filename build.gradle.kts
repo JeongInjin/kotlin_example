@@ -70,6 +70,9 @@ dependencies {
 
     //csvFileReader
     implementation("com.opencsv:opencsv:5.5.2")
+
+    //okhttp
+    implementation ("com.squareup.okhttp3:okhttp:4.9.1")
 }
 
 tasks.withType<KotlinCompile> {
